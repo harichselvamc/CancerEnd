@@ -2,12 +2,12 @@
   "expo": {
     "extra": {
       "eas": {
-        "projectId": "3915dad4-3018-4830-9540-d766f1ff8b5f"
+        "projectId": ""
       }
     },
     "owner": "harichselvam.ds.ai",
     "android": {
-      "package": "com.harichselvam.ds.ai.cancerend"
+      "package": ""
     }
   }
 }
